@@ -1,782 +1,752 @@
 [
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_121.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_326.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.73 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.51 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_121"
+    "group_id": "CUBS_tech_326"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_165.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_364.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.64 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.66 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_165"
+    "group_id": "CUBS_tech_364"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_108.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_156.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.45 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.43 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_108"
+    "group_id": "CUBS_tech_156"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_285.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_087.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.76 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.97 mm, borderline elevated."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_285"
+    "group_id": "CUBS_tech_087"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_012.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_052.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.61 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.12 mm, borderline elevated."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_012"
+    "group_id": "CUBS_tech_052"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_066.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_098.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.85 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.37 mm, markedly elevated, consistent with advanced atherosclerosis."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_066"
+    "group_id": "CUBS_tech_098"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_337.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_463.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.78 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.99 mm, borderline elevated."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_337"
+    "group_id": "CUBS_tech_463"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_254.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_269.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.52 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.79 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_254"
+    "group_id": "CUBS_tech_269"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_070.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_232.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.62 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.69 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_070"
+    "group_id": "CUBS_tech_232"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_073.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_143.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.72 mm und ist deutlich erhöht, vereinbar mit fortgeschrittener Atherosklerose."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.89 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_073"
+    "group_id": "CUBS_tech_143"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_399.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_069.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.67 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.60 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_399"
+    "group_id": "CUBS_tech_069"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_228.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_327.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.85 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.65 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_228"
+    "group_id": "CUBS_tech_327"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_378.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_071.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.92 mm und ist grenzwertig erhöht."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.52 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_378"
+    "group_id": "CUBS_tech_071"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_257.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_489.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.44 mm und ist deutlich erhöht, vereinbar mit fortgeschrittener Atherosklerose."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.08 mm, borderline elevated."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_257"
+    "group_id": "CUBS_tech_489"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_438.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_435.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.84 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.01 mm, borderline elevated."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_438"
+    "group_id": "CUBS_tech_435"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_236.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_412.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.00 mm und ist grenzwertig erhöht."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.14 mm, borderline elevated."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_236"
+    "group_id": "CUBS_tech_412"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_031.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_061.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.26 mm und ist deutlich erhöht, vereinbar mit fortgeschrittener Atherosklerose."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.62 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_031"
+    "group_id": "CUBS_tech_061"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_276.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_103.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.83 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.90 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_276"
+    "group_id": "CUBS_tech_103"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_171.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_320.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.55 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.78 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_171"
+    "group_id": "CUBS_tech_320"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_495.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_476.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.97 mm und ist grenzwertig erhöht."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.06 mm, borderline elevated."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_495"
+    "group_id": "CUBS_tech_476"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_137.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_387.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.08 mm und ist grenzwertig erhöht."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.26 mm, markedly elevated, consistent with advanced atherosclerosis."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_137"
+    "group_id": "CUBS_tech_387"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_205.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_019.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.66 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.60 mm, markedly elevated, consistent with advanced atherosclerosis."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_205"
+    "group_id": "CUBS_tech_019"
+  },
+  {
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_381.tiff",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.84 mm, within normal range."
+      }
+    ],
+    "source": "CUBS",
+    "group_id": "CUBS_tech_381"
+  },
+  {
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_406.tiff",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.90 mm, borderline elevated."
+      }
+    ],
+    "source": "CUBS",
+    "group_id": "CUBS_tech_406"
+  },
+  {
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_263.tiff",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.98 mm, borderline elevated."
+      }
+    ],
+    "source": "CUBS",
+    "group_id": "CUBS_tech_263"
+  },
+  {
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_054.tiff",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.80 mm, within normal range."
+      }
+    ],
+    "source": "CUBS",
+    "group_id": "CUBS_tech_054"
   },
   {
     "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_369.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.72 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.72 mm, within normal range."
       }
     ],
     "source": "CUBS",
     "group_id": "CUBS_tech_369"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_246.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_367.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.54 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.72 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_246"
+    "group_id": "CUBS_tech_367"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_083.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_196.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.49 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.32 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_083"
+    "group_id": "CUBS_tech_196"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_448.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_105.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.95 mm und ist grenzwertig erhöht."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.00 mm, borderline elevated."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_448"
+    "group_id": "CUBS_tech_105"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_297.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_355.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.66 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.79 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_297"
+    "group_id": "CUBS_tech_355"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_134.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_204.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.61 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.74 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_134"
+    "group_id": "CUBS_tech_204"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_490.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_427.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.73 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.08 mm, borderline elevated."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_490"
+    "group_id": "CUBS_tech_427"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_111.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_051.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.89 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.73 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_111"
+    "group_id": "CUBS_tech_051"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_124.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_351.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.55 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.70 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_124"
+    "group_id": "CUBS_tech_351"
+  },
+  {
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_482.tiff",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.83 mm, within normal range."
+      }
+    ],
+    "source": "CUBS",
+    "group_id": "CUBS_tech_482"
+  },
+  {
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_221.tiff",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.81 mm, within normal range."
+      }
+    ],
+    "source": "CUBS",
+    "group_id": "CUBS_tech_221"
+  },
+  {
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_488.tiff",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.02 mm, borderline elevated."
+      }
+    ],
+    "source": "CUBS",
+    "group_id": "CUBS_tech_488"
+  },
+  {
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_027.tiff",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.11 mm, borderline elevated."
+      }
+    ],
+    "source": "CUBS",
+    "group_id": "CUBS_tech_027"
+  },
+  {
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_008.tiff",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.12 mm, borderline elevated."
+      }
+    ],
+    "source": "CUBS",
+    "group_id": "CUBS_tech_008"
+  },
+  {
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_155.tiff",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.64 mm, within normal range."
+      }
+    ],
+    "source": "CUBS",
+    "group_id": "CUBS_tech_155"
+  },
+  {
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_057.tiff",
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.83 mm, within normal range."
+      }
+    ],
+    "source": "CUBS",
+    "group_id": "CUBS_tech_057"
   },
   {
     "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_465.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.32 mm und ist deutlich erhöht, vereinbar mit fortgeschrittener Atherosklerose."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.32 mm, markedly elevated, consistent with advanced atherosclerosis."
       }
     ],
     "source": "CUBS",
     "group_id": "CUBS_tech_465"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_480.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_336.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.10 mm und ist grenzwertig erhöht."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.71 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_480"
+    "group_id": "CUBS_tech_336"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_231.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_440.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.97 mm und ist grenzwertig erhöht."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.06 mm, borderline elevated."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_231"
+    "group_id": "CUBS_tech_440"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_060.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_335.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.70 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.77 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_060"
+    "group_id": "CUBS_tech_335"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_017.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_179.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.02 mm und ist grenzwertig erhöht."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.72 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_017"
+    "group_id": "CUBS_tech_179"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_292.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_104.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.92 mm und ist grenzwertig erhöht."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 1.09 mm, borderline elevated."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_292"
+    "group_id": "CUBS_tech_104"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_273.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_370.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.80 mm und ist im Normbereich."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.60 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_273"
+    "group_id": "CUBS_tech_370"
   },
   {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_064.tiff",
+    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_439.tiff",
     "conversations": [
       {
         "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
+        "content": "Analyze this carotid ultrasound image in longitudinal view. What is the intima-media thickness?"
       },
       {
         "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.15 mm und ist grenzwertig erhöht."
+        "content": "Longitudinal B-mode ultrasound of the common carotid artery. Intima-media thickness measures 0.87 mm, within normal range."
       }
     ],
     "source": "CUBS",
-    "group_id": "CUBS_tech_064"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_398.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.82 mm und ist im Normbereich."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_398"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_264.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.71 mm und ist im Normbereich."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_264"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_226.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.93 mm und ist grenzwertig erhöht."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_226"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_047.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.80 mm und ist im Normbereich."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_047"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_404.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.20 mm und ist grenzwertig erhöht."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_404"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_485.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.02 mm und ist grenzwertig erhöht."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_485"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_445.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 1.33 mm und ist deutlich erhöht, vereinbar mit fortgeschrittener Atherosklerose."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_445"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_161.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.28 mm und ist im Normbereich."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_161"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_324.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.69 mm und ist im Normbereich."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_324"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_229.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.90 mm und ist grenzwertig erhöht."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_229"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_251.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.91 mm und ist grenzwertig erhöht."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_251"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_352.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.89 mm und ist im Normbereich."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_352"
-  },
-  {
-    "image": "/content/cubs/extracted/DATASET_CUBS_tech/images/tech_379.tiff",
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Analysiere dieses Carotis-Ultraschallbild im Längsschnitt. Wie hoch ist die Intima-Media-Dicke?"
-      },
-      {
-        "role": "assistant",
-        "content": "Common Carotid Artery, B-Mode-Längsschnitt. Die Intima-Media-Dicke beträgt 0.62 mm und ist im Normbereich."
-      }
-    ],
-    "source": "CUBS",
-    "group_id": "CUBS_tech_379"
+    "group_id": "CUBS_tech_439"
   }
 ]
