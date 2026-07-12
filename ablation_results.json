@@ -1,0 +1,28 @@
+{
+  "ohne_phase1": {
+    "mae": 0.19799999999999998,
+    "baseline_mae": 0.21020000000000003,
+    "improvement": 5.803996194100876,
+    "accuracy": 0.76,
+    "recall": 0.5333333333333333,
+    "precision": 0.6153846153846154,
+    "cat_accuracy": 0.74,
+    "pearson_r": 0.4451958531667318,
+    "std_pred": 0.14443337564427414,
+    "std_true": 0.2579954263160492,
+    "unique_preds": 11
+  },
+  "mit_phase1": {
+    "mae": 0.1866,
+    "baseline_mae": 0.21020000000000003,
+    "improvement": 11.22740247383446,
+    "accuracy": 0.78,
+    "recall": 0.5333333333333333,
+    "precision": 0.6666666666666666,
+    "cat_accuracy": 0.76,
+    "pearson_r": 0.4936630147072884,
+    "std_pred": 0.15173661390712528,
+    "std_true": 0.2579954263160492,
+    "unique_preds": 7
+  }
+}
