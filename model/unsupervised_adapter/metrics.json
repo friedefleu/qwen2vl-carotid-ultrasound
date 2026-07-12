@@ -1,0 +1,9 @@
+{
+  "phase": "unsupervised (ROCO ultrasound)",
+  "train_images": 7322,
+  "val_images": 814,
+  "baseline_loss": 2.9251,
+  "final_loss": 2.1349,
+  "baseline_perplexity": 18.64,
+  "final_perplexity": 8.46
+}
