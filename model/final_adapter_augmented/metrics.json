@@ -1,0 +1,26 @@
+{
+  "config": "unsupervised (ROCO) + supervised (CUBS) + ultrasound augmentation",
+  "augmentation": "ColorJitter(brightness=0.2, contrast=0.2) + speckle noise (sigma=0.08)",
+  "mae_mm": 0.166,
+  "mae_ci95": [
+    0.13,
+    0.205
+  ],
+  "baseline_mae_mm": 0.21,
+  "improvement_pct": 19.5,
+  "improvement_ci95": [
+    -0.6,
+    37.1
+  ],
+  "delta_mae_significant": false,
+  "pearson_r": 0.58,
+  "pearson_r_ci95": [
+    0.402,
+    0.732
+  ],
+  "pearson_significant": true,
+  "accuracy_pathological": 0.78,
+  "recall_pathological": 0.533,
+  "category_accuracy_3class": 0.76,
+  "n_test": 50
+}
