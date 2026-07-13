@@ -1,5 +1,11 @@
 *.tiff
-*.png
 *.jpg
+*.png
 __pycache__/
 .DS_Store
+._*
+
+# Ausnahmen: Ergebnis-Grafiken
+!ergebnisse_gesamt.png
+!loss_curve*.png
+!scatter*.png

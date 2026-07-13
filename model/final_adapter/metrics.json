@@ -1,0 +1,11 @@
+{
+  "config": "unsupervised (ROCO) + supervised (CUBS), keine Augmentation",
+  "mae_mm": 0.187,
+  "baseline_mae_mm": 0.21,
+  "improvement_pct": 11.2,
+  "pearson_r": 0.494,
+  "accuracy_pathological": 0.78,
+  "recall_pathological": 0.533,
+  "category_accuracy_3class": 0.76,
+  "n_test": 50
+}
