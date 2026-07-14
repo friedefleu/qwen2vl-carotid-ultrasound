@@ -64,6 +64,11 @@ Notebook `notebooks/ultraschall_carotid.ipynb` bietet zwei Wege:
 - Regression zur Mitte: Vorhersage-Streuung nur 72 % der echten Streuung → niedriger Recall (53 %)
 - Ein VLM schätzt, es misst nicht geometrisch
 
-## Lizenzen
+## Quellen 
+### Wissenschaftliche Datensätze & Publikationen
+*   **[ROCOv2](https://doi.org/10.48550/arXiv.2405.10004)** (Radiology Objects in COntext Version 2)  
+*   **[CUBS](https://doi.org/10.1016/j.compbiomed.2022.105333)** (Carotid Ultrasound Boundary Study)  
 
-ROCOv2: CC BY-NC-SA 4.0 · CUBS: CC BY 4.0
+### Repositories & Plattformen
+*   **Carotid Artery Ultrasound and Color Doppler** – Verfügbar auf [Kaggle](https://www.kaggle.com/datasets/pahunichoudhary/carotid-artery-ultrasound-and-color-doppler?resource=download)
+*   **Carotid Artery Segmentation** – Verfügbar auf [Roboflow Universe](https://universe.roboflow.com/advanced-machine-learning-nrcui/carotidarterysegmentation)
